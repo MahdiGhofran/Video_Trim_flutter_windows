@@ -1,4 +1,3 @@
-```markdown
 # Flutter Windows Video Trimming Page
 
 A video trimming page built with Flutter for Windows. This widget provides a simple and effective way to trim videos using FFmpeg, making it ideal for projects where no dedicated Flutter package exists for video trimming on Windows.
